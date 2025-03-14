@@ -1,0 +1,133 @@
+/* styles.css */
+
+/* styles.css */
+
+/* Tooltip Base Style */
+.tooltip {
+    -fx-background-color: rgba(0, 0, 0, 0.9);
+    -fx-padding: 10px;
+    -fx-font-size: 12px;
+}
+
+/* Health Progress Bar Styles */
+.progress-bar.health-bar {
+    -fx-accent: #4CAF50; /* Green for healthy */
+    -fx-background-color: #E0E0E0;
+    -fx-background-insets: 0;
+}
+
+.progress-bar.health-bar.medium {
+    -fx-accent: #FFC107; /* Amber for medium health */
+}
+
+.progress-bar.health-bar.low {
+    -fx-accent: #F44336; /* Red for low health */
+}
+
+/* Water Progress Bar Styles */
+.progress-bar.water-bar {
+    -fx-accent: #2196F3; /* Blue for well-watered */
+    -fx-background-color: #E0E0E0;
+    -fx-background-insets: 0;
+}
+
+.progress-bar.water-bar.medium {
+    -fx-accent: #03A9F4; /* Light Blue for medium water */
+}
+
+.progress-bar.water-bar.low {
+    -fx-accent: #00BCD4; /* Cyan for low water */
+}
+
+/* Optional: Customize Labels */
+.tooltip .label {
+    -fx-font-weight: bold;
+}
+
+/* Plant ToggleButton Styles */
+.plant-toggle-button {
+    -fx-font-size: 14px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 40px;
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.toggle-button:selected {
+    -fx-background-color: #4caf50; /* Green background for selected */
+    -fx-text-fill: white; /* White text for better contrast */
+    -fx-border-color: #388e3c;
+}
+
+.plant-toggle-button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+/* Clear Selection Button Styles */
+.clear-selection-button {
+    -fx-font-size: 14px;
+    /*-fx-pref-width: 150px;*/
+    -fx-pref-height: 40px;
+    -fx-background-color: #ff5722;
+    -fx-text-fill: white;
+    -fx-border-color: #e64a19;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.clear-selection-button:hover {
+    -fx-background-color: #e64a19;
+}
+
+
+/* styles.css */
+
+/* Base style for plant toggle buttons */
+.plant-toggle-button {
+    -fx-font-size: 14px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 40px;
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.grid-buttons{
+    -fx-pref-width: 120px;
+    -fx-pref-height: 120px;
+    -fx-font-size: 15px;
+}
+
+/* Style for selected plant toggle button */
+.toggle-button:selected {
+    -fx-background-color: #4caf50; /* Green background for selected */
+    -fx-text-fill: white; /* White text for better contrast */
+    -fx-border-color: #388e3c;
+}
+
+/* Style for hover effect */
+.plant-toggle-button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+/* Style for clear selection button */
+.button {
+    -fx-pref-width: 120px;
+    -fx-pref-height: 20px;
+    -fx-background-color: #e48085;
+    -fx-text-fill: white;
+    -fx-border-color: #e16340;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #dd7757;
+}

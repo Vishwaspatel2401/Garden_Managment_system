@@ -1,0 +1,1475 @@
+[2025-03-13 20:10:43] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:10:43] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:11:08] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:11:08] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:11:23] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:11:23] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:11:46] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:11:46] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:11:53] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 20:12:08] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 20:12:11] [INFO] CHERRY 20's health increased by 6. Current health: 91%
+[2025-03-13 20:12:11] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:12:26] [INFO] CHERRY 20's health increased by 6. Current health: 97%
+[2025-03-13 20:12:27] [INFO] CHERRY 19's health decreased by 15. Current health: 85%
+[2025-03-13 20:12:27] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:12:27] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 20:12:27] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:12:38] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 20:12:38] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 20:12:41] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 20:12:41] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:12:42] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 20:12:42] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 20:12:42] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:12:42] [INFO] CHERRY 19's health increased by 6. Current health: 91%
+[2025-03-13 20:12:53] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:12:57] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 20:12:57] [INFO] CHERRY 19's health increased by 6. Current health: 97%
+[2025-03-13 20:13:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:13:12] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:13:54] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:13:54] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:13:54] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:13:56] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:13:57] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:13:57] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:14:08] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:14:11] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:14:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:15:09] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:09] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:09] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:09] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:09] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:11] [INFO] CHERRY 20's health increased by 4. Current health: 94%
+[2025-03-13 20:15:11] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 20:15:12] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 20:15:12] [INFO] CHERRY 19's health increased by 4. Current health: 94%
+[2025-03-13 20:15:12] [INFO] CHERRY 16's health increased by 4. Current health: 98%
+[2025-03-13 20:15:12] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 20:15:19] [INFO] CHERRY 20's health increased by 4. Current health: 98%
+[2025-03-13 20:15:19] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 20:15:19] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 20:15:23] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:15:23] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:15:26] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:15:27] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:15:27] [INFO] CHERRY 19's health increased by 4. Current health: 98%
+[2025-03-13 20:15:34] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:15:36] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:15:36] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:36] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:15:36] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:15:36] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:36] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:15:36] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:15:36] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:36] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:15:36] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:15:36] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:36] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:15:36] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:15:36] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:15:36] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:15:38] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:15:38] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:15:41] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:15:41] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:15:42] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:15:42] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:15:42] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:15:45] [INFO] CHERRY 19's health decreased by 15. Current health: 81%
+[2025-03-13 20:15:45] [INFO] CHERRY 17's health decreased by 15. Current health: 81%
+[2025-03-13 20:15:49] [INFO] CHERRY 17's health increased by 6. Current health: 87%
+[2025-03-13 20:15:49] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:15:49] [INFO] CHERRY 17's health increased by 6. Current health: 93%
+[2025-03-13 20:15:49] [INFO] CHERRY 19's health increased by 6. Current health: 87%
+[2025-03-13 20:15:57] [INFO] CHERRY 17's health increased by 6. Current health: 99%
+[2025-03-13 20:15:57] [INFO] CHERRY 19's health increased by 6. Current health: 93%
+[2025-03-13 20:16:04] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:16:04] [INFO] CHERRY 19's health increased by 6. Current health: 99%
+[2025-03-13 20:16:10] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:16:22] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:22] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:22] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:22] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:22] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:23] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:16:23] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:16:25] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:16:25] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:16:26] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:16:26] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:16:27] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:16:27] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:16:27] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:16:34] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:16:53] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:53] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:53] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:53] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:53] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:16:55] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:16:55] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:16:56] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:16:56] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:16:57] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:16:57] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:16:57] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:16:57] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:17:02] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:17:04] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:17:59] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:17:59] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:17:59] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:18:03] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 20:18:04] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 20:18:04] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 20:18:04] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:18:04] [INFO] CHERRY 19's health increased by 4. Current health: 94%
+[2025-03-13 20:18:06] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:18:06] [INFO] CHERRY 19's health decreased by 10. Current health: 84%
+[2025-03-13 20:18:06] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:18:06] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:18:06] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:18:06] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:18:06] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:18:06] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:18:06] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:18:06] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:18:06] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:18:06] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:18:06] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:18:06] [INFO] CHERRY 16's health decreased by 10. Current health: 84%
+[2025-03-13 20:18:06] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:18:08] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:18:08] [INFO] CHERRY 16's health increased by 6. Current health: 90%
+[2025-03-13 20:18:10] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:18:10] [INFO] CHERRY 19's health increased by 6. Current health: 90%
+[2025-03-13 20:18:11] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:18:11] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:18:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:18:12] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:18:12] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:18:12] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:18:17] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:18:19] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:19:09] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:19:10] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 20:19:12] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 20:19:19] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:19:52] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:19:55] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 20:19:57] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 20:20:04] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:20:35] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:20:35] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:20:35] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:20:36] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:20:36] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:20:36] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:20:36] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:20:36] [INFO] CHERRY 17's health decreased by 10. Current health: 80%
+[2025-03-13 20:20:36] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:20:36] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:20:36] [INFO] CHERRY 20's health decreased by 10. Current health: 80%
+[2025-03-13 20:20:36] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:20:36] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:20:36] [INFO] CHERRY 16's health decreased by 10. Current health: 80%
+[2025-03-13 20:20:36] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:20:36] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:20:36] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:20:36] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:20:38] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:20:38] [INFO] CHERRY 16's health increased by 6. Current health: 86%
+[2025-03-13 20:20:39] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:20:39] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:20:39] [INFO] CHERRY 16's health increased by 6. Current health: 92%
+[2025-03-13 20:20:40] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:20:40] [INFO] CHERRY 17's health increased by 6. Current health: 86%
+[2025-03-13 20:20:41] [INFO] CHERRY 20's health increased by 6. Current health: 86%
+[2025-03-13 20:20:41] [INFO] CHERRY 16's health increased by 6. Current health: 98%
+[2025-03-13 20:20:42] [INFO] CHERRY 17's health increased by 6. Current health: 92%
+[2025-03-13 20:20:42] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:20:46] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:20:47] [INFO] CHERRY 20's health increased by 6. Current health: 92%
+[2025-03-13 20:20:47] [INFO] CHERRY 17's health increased by 6. Current health: 98%
+[2025-03-13 20:20:49] [INFO] CHERRY 20's health increased by 6. Current health: 98%
+[2025-03-13 20:20:49] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:20:49] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:20:49] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 20:20:53] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 20:20:54] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:21:16] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:21:17] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:21:19] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:22:00] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:00] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:02] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:22:04] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:22:04] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:22:09] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:22:13] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:13] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:13] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:15] [INFO] CHERRY 20's health increased by 4. Current health: 94%
+[2025-03-13 20:22:17] [INFO] CHERRY 20's health increased by 4. Current health: 98%
+[2025-03-13 20:22:18] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 20:22:19] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:22:19] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 20:22:19] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 20:22:19] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:22:23] [INFO] CHERRY 16's health increased by 4. Current health: 98%
+[2025-03-13 20:22:24] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:22:47] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:47] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:22:49] [INFO] CHERRY 20's health increased by 4. Current health: 94%
+[2025-03-13 20:22:49] [INFO] CHERRY 20's health increased by 4. Current health: 98%
+[2025-03-13 20:22:49] [INFO] CHERRY 19's health increased by 4. Current health: 94%
+[2025-03-13 20:22:54] [INFO] CHERRY 19's health increased by 4. Current health: 98%
+[2025-03-13 20:22:55] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:22:56] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:23:06] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:23:06] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:23:06] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:23:06] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:23:06] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:23:06] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:23:06] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:23:06] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:23:06] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:23:06] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:23:06] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:23:06] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:23:06] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:23:06] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:23:06] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:23:08] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:23:08] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:23:08] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:23:09] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:23:09] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:23:10] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:23:10] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:23:11] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:23:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:23:15] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:23:17] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:23:17] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:23:19] [INFO] CHERRY 20's health increased by 6. Current health: 91%
+[2025-03-13 20:23:19] [INFO] CHERRY 20's health increased by 6. Current health: 97%
+[2025-03-13 20:23:19] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 20:23:23] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 20:23:23] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:23:26] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:24:24] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:24] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:24] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:25] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:24:26] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:24:27] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:24:27] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:24:30] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:24:33] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:24:51] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:51] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:51] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:51] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:51] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:24:53] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 20:24:53] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 20:24:53] [INFO] CHERRY 16's health increased by 4. Current health: 98%
+[2025-03-13 20:24:54] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 20:24:54] [INFO] CHERRY 19's health increased by 4. Current health: 94%
+[2025-03-13 20:24:54] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:24:55] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 20:24:55] [INFO] CHERRY 19's health increased by 4. Current health: 98%
+[2025-03-13 20:24:56] [INFO] CHERRY 20's health increased by 4. Current health: 94%
+[2025-03-13 20:24:57] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 20:24:57] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:24:57] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:25:00] [INFO] CHERRY 20's health increased by 4. Current health: 98%
+[2025-03-13 20:25:00] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:25:02] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:25:18] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:25:18] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:25:18] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:25:18] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 20:25:19] [INFO] CHERRY 20's health increased by 4. Current health: 89%
+[2025-03-13 20:25:19] [INFO] CHERRY 18's health increased by 4. Current health: 89%
+[2025-03-13 20:25:19] [INFO] CHERRY 17's health increased by 4. Current health: 89%
+[2025-03-13 20:25:19] [INFO] CHERRY 17's health increased by 4. Current health: 93%
+[2025-03-13 20:25:19] [INFO] CHERRY 16's health increased by 4. Current health: 89%
+[2025-03-13 20:25:19] [INFO] CHERRY 20's health increased by 4. Current health: 93%
+[2025-03-13 20:25:19] [INFO] CHERRY 18's health increased by 4. Current health: 93%
+[2025-03-13 20:25:23] [INFO] CHERRY 18's health increased by 4. Current health: 97%
+[2025-03-13 20:25:23] [INFO] CHERRY 16's health increased by 4. Current health: 93%
+[2025-03-13 20:25:23] [INFO] CHERRY 16's health increased by 4. Current health: 97%
+[2025-03-13 20:25:24] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:25:24] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:25:25] [INFO] CHERRY 17's health increased by 4. Current health: 97%
+[2025-03-13 20:25:26] [INFO] CHERRY 20's health increased by 4. Current health: 97%
+[2025-03-13 20:25:27] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:25:30] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:25:36] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:25:36] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:25:36] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:25:36] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:25:36] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:25:36] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:25:36] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:25:36] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:25:36] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:25:36] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:25:36] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:25:36] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:25:36] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:25:36] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:25:36] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:25:38] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:25:38] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:25:38] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:25:39] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:25:39] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:25:40] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:25:40] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:25:41] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:25:42] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:25:43] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:26:31] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:26:31] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:26:31] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:26:31] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:26:32] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:26:33] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:26:34] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:26:34] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:26:38] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:27:04] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:04] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:10] [INFO] CHERRY 17's health increased by 4. Current health: 89%
+[2025-03-13 20:27:11] [INFO] CHERRY 20's health increased by 4. Current health: 89%
+[2025-03-13 20:27:12] [INFO] CHERRY 17's health increased by 4. Current health: 93%
+[2025-03-13 20:27:13] [INFO] CHERRY 20's health increased by 4. Current health: 93%
+[2025-03-13 20:27:15] [INFO] CHERRY 17's health increased by 4. Current health: 97%
+[2025-03-13 20:27:15] [INFO] CHERRY 20's health increased by 4. Current health: 97%
+[2025-03-13 20:27:16] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:27:17] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:27:20] [INFO] CHERRY 19's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:20] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:20] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:20] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:27:23] [INFO] CHERRY 16's health increased by 4. Current health: 89%
+[2025-03-13 20:27:23] [INFO] CHERRY 16's health increased by 4. Current health: 93%
+[2025-03-13 20:27:24] [INFO] CHERRY 19's health increased by 4. Current health: 89%
+[2025-03-13 20:27:24] [INFO] CHERRY 16's health increased by 4. Current health: 97%
+[2025-03-13 20:27:25] [INFO] CHERRY 17's health increased by 4. Current health: 89%
+[2025-03-13 20:27:25] [INFO] CHERRY 19's health increased by 4. Current health: 93%
+[2025-03-13 20:27:26] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:27:26] [INFO] CHERRY 20's health increased by 4. Current health: 89%
+[2025-03-13 20:27:27] [INFO] CHERRY 19's health increased by 4. Current health: 97%
+[2025-03-13 20:27:27] [INFO] CHERRY 17's health increased by 4. Current health: 93%
+[2025-03-13 20:27:28] [INFO] CHERRY 20's health increased by 4. Current health: 93%
+[2025-03-13 20:27:29] [INFO] CHERRY 17's health increased by 4. Current health: 97%
+[2025-03-13 20:27:29] [INFO] CHERRY 20's health increased by 4. Current health: 97%
+[2025-03-13 20:27:30] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:27:30] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:27:34] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:27:49] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:27:54] [INFO] CHERRY 19's health increased by 4. Current health: 94%
+[2025-03-13 20:27:55] [INFO] CHERRY 19's health increased by 4. Current health: 98%
+[2025-03-13 20:27:57] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:28:06] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:28:06] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:06] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:28:06] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:28:06] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:06] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:28:06] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:28:06] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:06] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:28:06] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:28:06] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:06] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:28:06] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:28:06] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:06] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:28:08] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:28:08] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:28:08] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:28:09] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:28:09] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:28:10] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:28:10] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:28:11] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:28:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:28:13] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:28:19] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:19] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:19] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:28:23] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:28:24] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:28:24] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:28:25] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:28:26] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:28:28] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:29:15] [INFO] CHERRY 41's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:15] [INFO] CHERRY 19's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:15] [INFO] CHERRY 20's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:15] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:15] [INFO] CHERRY 19's health increased by 6. Current health: 91%
+[2025-03-13 20:29:16] [INFO] CHERRY 20's health increased by 6. Current health: 91%
+[2025-03-13 20:29:17] [INFO] CHERRY 20's health increased by 6. Current health: 97%
+[2025-03-13 20:29:19] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:29:19] [INFO] CHERRY 19's health increased by 6. Current health: 97%
+[2025-03-13 20:29:19] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 20:29:23] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 20:29:23] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:29:24] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:29:40] [INFO] CHERRY 41's health increased by 6. Current health: 91%
+[2025-03-13 20:29:49] [INFO] CHERRY 41's health decreased by 15. Current health: 76%
+[2025-03-13 20:29:49] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:49] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:49] [INFO] CHERRY 19's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:49] [INFO] CHERRY 40's health decreased by 15. Current health: 85%
+[2025-03-13 20:29:53] [INFO] CHERRY 16's health increased by 4. Current health: 89%
+[2025-03-13 20:29:53] [INFO] CHERRY 16's health increased by 4. Current health: 93%
+[2025-03-13 20:29:54] [INFO] CHERRY 19's health increased by 4. Current health: 89%
+[2025-03-13 20:29:54] [INFO] CHERRY 16's health increased by 4. Current health: 97%
+[2025-03-13 20:29:55] [INFO] CHERRY 17's health increased by 4. Current health: 89%
+[2025-03-13 20:29:55] [INFO] CHERRY 19's health increased by 4. Current health: 93%
+[2025-03-13 20:29:55] [INFO] CHERRY 41's health increased by 6. Current health: 82%
+[2025-03-13 20:29:56] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:29:57] [INFO] CHERRY 17's health increased by 4. Current health: 93%
+[2025-03-13 20:29:58] [INFO] CHERRY 19's health increased by 4. Current health: 97%
+[2025-03-13 20:29:59] [INFO] CHERRY 17's health increased by 4. Current health: 97%
+[2025-03-13 20:30:00] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:30:00] [INFO] CHERRY 19's health increased by 4. Current health: 100%
+[2025-03-13 20:30:10] [INFO] CHERRY 41's health increased by 6. Current health: 88%
+[2025-03-13 20:30:14] [INFO] CHERRY 40's health increased by 6. Current health: 91%
+[2025-03-13 20:30:14] [INFO] CHERRY 41's health increased by 6. Current health: 94%
+[2025-03-13 20:30:25] [INFO] CHERRY 41's health increased by 6. Current health: 100%
+[2025-03-13 20:30:28] [INFO] BAMBOO 25's health decreased by 12. Current health: 88%
+[2025-03-13 20:30:29] [INFO] CHERRY 40's health increased by 6. Current health: 97%
+[2025-03-13 20:30:36] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:30:36] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:30:36] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:30:36] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:30:36] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:30:36] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:30:36] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:30:36] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:30:36] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:30:36] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:30:36] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:30:36] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:30:36] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:30:36] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:30:36] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:30:38] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:30:38] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:30:38] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:30:39] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:30:39] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:30:40] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:30:40] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:30:41] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:30:42] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:30:43] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:30:44] [INFO] CHERRY 40's health increased by 6. Current health: 100%
+[2025-03-13 20:30:53] [INFO] BAMBOO 25's health increased by 6. Current health: 94%
+[2025-03-13 20:31:02] [INFO] BAMBOO 25's health decreased by 7. Current health: 87%
+[2025-03-13 20:31:02] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:31:02] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:31:03] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:31:04] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:31:04] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:31:08] [INFO] BAMBOO 25's health increased by 6. Current health: 93%
+[2025-03-13 20:31:09] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:31:23] [INFO] BAMBOO 25's health increased by 6. Current health: 99%
+[2025-03-13 20:31:27] [INFO] BAMBOO 25's health increased by 6. Current health: 100%
+[2025-03-13 20:31:35] [INFO] BAMBOO 25's health decreased by 12. Current health: 88%
+[2025-03-13 20:31:38] [INFO] BAMBOO 25's health increased by 6. Current health: 94%
+[2025-03-13 20:31:42] [INFO] BAMBOO 25's health increased by 6. Current health: 100%
+[2025-03-13 20:32:21] [INFO] CHERRY 40's health decreased by 10. Current health: 90%
+[2025-03-13 20:32:21] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:32:21] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:32:21] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:32:21] [INFO] BAMBOO 25's health decreased by 7. Current health: 93%
+[2025-03-13 20:32:21] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:32:23] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 20:32:23] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 20:32:23] [INFO] CHERRY 16's health increased by 4. Current health: 98%
+[2025-03-13 20:32:23] [INFO] BAMBOO 25's health increased by 6. Current health: 99%
+[2025-03-13 20:32:24] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 20:32:24] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 20:32:25] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 20:32:26] [INFO] CHERRY 20's health increased by 4. Current health: 94%
+[2025-03-13 20:32:27] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 20:32:27] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 20:32:27] [INFO] BAMBOO 25's health increased by 6. Current health: 100%
+[2025-03-13 20:32:28] [INFO] CHERRY 20's health increased by 4. Current health: 98%
+[2025-03-13 20:32:29] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 20:32:29] [INFO] CHERRY 20's health increased by 4. Current health: 100%
+[2025-03-13 20:32:29] [INFO] CHERRY 40's health increased by 6. Current health: 96%
+[2025-03-13 20:32:44] [INFO] CHERRY 40's health increased by 4. Current health: 100%
+[2025-03-13 20:33:06] [INFO] CHERRY 19 watered with 25 units.
+[2025-03-13 20:33:06] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:06] [WARNING] CHERRY 19 has been overwatered and its health decreased.
+[2025-03-13 20:33:06] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 20:33:06] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:06] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 20:33:06] [INFO] CHERRY 20 watered with 25 units.
+[2025-03-13 20:33:06] [INFO] CHERRY 20's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:06] [WARNING] CHERRY 20 has been overwatered and its health decreased.
+[2025-03-13 20:33:06] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 20:33:06] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:06] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 20:33:06] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 20:33:06] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:06] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 20:33:08] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 20:33:08] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 20:33:08] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 20:33:09] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 20:33:09] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:33:10] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 20:33:10] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:33:11] [INFO] CHERRY 20's health increased by 6. Current health: 96%
+[2025-03-13 20:33:12] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 20:33:13] [INFO] CHERRY 20's health increased by 6. Current health: 100%
+[2025-03-13 20:33:16] [INFO] CHERRY 41's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:16] [INFO] CHERRY 40's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:16] [INFO] BAMBOO 25's health decreased by 7. Current health: 93%
+[2025-03-13 20:33:16] [INFO] CHERRY 19's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:16] [INFO] CHERRY 40's health increased by 4. Current health: 94%
+[2025-03-13 20:33:19] [INFO] CHERRY 19's health increased by 6. Current health: 96%
+[2025-03-13 20:33:23] [INFO] BAMBOO 25's health increased by 6. Current health: 99%
+[2025-03-13 20:33:24] [INFO] CHERRY 19's health increased by 6. Current health: 100%
+[2025-03-13 20:33:25] [INFO] CHERRY 41's health increased by 4. Current health: 94%
+[2025-03-13 20:33:27] [INFO] BAMBOO 25's health increased by 6. Current health: 100%
+[2025-03-13 20:33:29] [INFO] CHERRY 41's health increased by 4. Current health: 98%
+[2025-03-13 20:33:29] [INFO] CHERRY 40's health increased by 4. Current health: 98%
+[2025-03-13 20:33:31] [INFO] CHERRY 40's health increased by 4. Current health: 100%
+[2025-03-13 20:33:34] [INFO] BAMBOO 25's health decreased by 12. Current health: 88%
+[2025-03-13 20:33:36] [INFO] CHERRY 41 watered with 25 units.
+[2025-03-13 20:33:36] [INFO] CHERRY 41's health decreased by 10. Current health: 88%
+[2025-03-13 20:33:36] [WARNING] CHERRY 41 has been overwatered and its health decreased.
+[2025-03-13 20:33:36] [INFO] CHERRY 40 watered with 25 units.
+[2025-03-13 20:33:36] [INFO] CHERRY 40's health decreased by 10. Current health: 90%
+[2025-03-13 20:33:36] [WARNING] CHERRY 40 has been overwatered and its health decreased.
+[2025-03-13 20:33:38] [INFO] BAMBOO 25's health increased by 4. Current health: 92%
+[2025-03-13 20:33:41] [INFO] CHERRY 41's health increased by 6. Current health: 94%
+[2025-03-13 20:33:41] [INFO] CHERRY 41's health increased by 6. Current health: 100%
+[2025-03-13 20:33:41] [INFO] BAMBOO 25's health increased by 4. Current health: 96%
+[2025-03-13 20:33:41] [INFO] CHERRY 40's health increased by 6. Current health: 96%
+[2025-03-13 20:33:42] [INFO] BAMBOO 25's health increased by 4. Current health: 100%
+[2025-03-13 20:33:44] [INFO] CHERRY 40's health increased by 6. Current health: 100%
+[2025-03-13 20:34:05] [INFO] BAMBOO 25's health decreased by 12. Current health: 88%
+[2025-03-13 20:34:08] [INFO] BAMBOO 25's health increased by 4. Current health: 92%
+[2025-03-13 20:34:11] [INFO] BAMBOO 25's health increased by 4. Current health: 96%
+[2025-03-13 20:34:12] [INFO] BAMBOO 25's health increased by 4. Current health: 100%
+[2025-03-13 20:34:36] [INFO] BAMBOO 25 watered with 25 units.
+[2025-03-13 20:34:36] [INFO] BAMBOO 25's health decreased by 10. Current health: 90%
+[2025-03-13 20:34:36] [WARNING] BAMBOO 25 has been overwatered and its health decreased.
+[2025-03-13 20:34:38] [INFO] BAMBOO 25's health increased by 6. Current health: 96%
+[2025-03-13 20:34:41] [INFO] BAMBOO 25's health increased by 6. Current health: 100%
+[2025-03-13 20:35:07] [INFO] CHERRY 41's health decreased by 15. Current health: 85%
+[2025-03-13 20:35:07] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 20:35:07] [INFO] CHERRY 40's health decreased by 15. Current health: 85%
+[2025-03-13 20:35:08] [INFO] CHERRY 18's health increased by 4. Current health: 89%
+[2025-03-13 20:35:09] [INFO] CHERRY 18's health increased by 4. Current health: 93%
+[2025-03-13 20:35:10] [INFO] CHERRY 41's health increased by 4. Current health: 89%
+[2025-03-13 20:35:11] [INFO] CHERRY 41's health increased by 4. Current health: 93%
+[2025-03-13 20:35:11] [INFO] CHERRY 40's health increased by 4. Current health: 89%
+[2025-03-13 20:35:12] [INFO] CHERRY 18's health increased by 4. Current health: 97%
+[2025-03-13 20:35:14] [INFO] CHERRY 41's health increased by 4. Current health: 97%
+[2025-03-13 20:35:14] [INFO] CHERRY 40's health increased by 4. Current health: 93%
+[2025-03-13 20:35:16] [INFO] CHERRY 40's health increased by 4. Current health: 97%
+[2025-03-13 20:36:03] [INFO] LAVENDER 36's health decreased by 20. Current health: 80%
+
+=== New Garden Simulation Started at 2025-03-13 20:35:32 ===
+
+20:36:03 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 36 at coordinates (4, 4). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 20:36:03] [INFO] LAVENDER 35's health decreased by 20. Current health: 80%
+20:36:03 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 35 at coordinates (4, 3). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 20:36:28] [INFO] LAVENDER 35's health increased by 6. Current health: 86%
+[2025-03-13 20:36:28] [INFO] LAVENDER 36's health increased by 6. Current health: 86%
+[2025-03-13 20:36:43] [INFO] LAVENDER 35's health increased by 6. Current health: 92%
+[2025-03-13 20:36:43] [INFO] LAVENDER 36's health increased by 6. Current health: 92%
+[2025-03-13 22:03:38] [INFO] BAMBOO 26's health decreased by 12. Current health: 88%
+[2025-03-13 22:03:38] [INFO] APPLE 25's health decreased by 8. Current health: 92%
+[2025-03-13 22:05:18] [INFO] APPLE 20's health decreased by 8. Current health: 92%
+[2025-03-13 22:05:18] [INFO] APPLE 18's health decreased by 8. Current health: 92%
+[2025-03-13 22:05:18] [INFO] APPLE 19's health decreased by 8. Current health: 92%
+[2025-03-13 22:05:43] [INFO] APPLE 19's health decreased by 8. Current health: 84%
+[2025-03-13 22:05:43] [INFO] APPLE 18's health increased by 6. Current health: 98%
+[2025-03-13 22:05:43] [INFO] APPLE 19's health increased by 6. Current health: 90%
+[2025-03-13 22:05:43] [INFO] APPLE 20's health increased by 6. Current health: 98%
+[2025-03-13 22:13:38] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:13:38] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:13:57] [INFO] CHERRY 16's health decreased by 10. Current health: 75%
+[2025-03-13 22:13:57] [INFO] CHERRY 17's health decreased by 10. Current health: 75%
+[2025-03-13 22:14:03] [INFO] CHERRY 16's health increased by 6. Current health: 81%
+[2025-03-13 22:14:03] [INFO] CHERRY 17's health increased by 6. Current health: 81%
+[2025-03-13 22:14:18] [INFO] CHERRY 16's health increased by 6. Current health: 87%
+[2025-03-13 22:14:18] [INFO] CHERRY 17's health increased by 6. Current health: 87%
+[2025-03-13 22:14:22] [INFO] CHERRY 16's health increased by 6. Current health: 93%
+[2025-03-13 22:14:22] [INFO] CHERRY 17's health increased by 6. Current health: 93%
+[2025-03-13 22:14:33] [INFO] CHERRY 16's health increased by 6. Current health: 99%
+[2025-03-13 22:14:33] [INFO] CHERRY 17's health increased by 6. Current health: 99%
+[2025-03-13 22:14:37] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:14:37] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:20:59] [INFO] CHERRY 25's health decreased by 10. Current health: 90%
+[2025-03-13 22:21:19] [INFO] CHERRY 25's health decreased by 15. Current health: 75%
+[2025-03-13 22:21:24] [INFO] CHERRY 25's health increased by 6. Current health: 81%
+[2025-03-13 22:21:39] [INFO] CHERRY 25's health increased by 6. Current health: 87%
+[2025-03-13 22:21:44] [INFO] CHERRY 25's health increased by 6. Current health: 93%
+[2025-03-13 22:24:28] [INFO] LAVENDER 24's health decreased by 20. Current health: 80%
+
+=== New Garden Simulation Started at 2025-03-13 22:21:53 ===
+
+22:24:28 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 24 at coordinates (3, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:24:53] [INFO] LAVENDER 24's health increased by 6. Current health: 86%
+[2025-03-13 22:25:08] [INFO] LAVENDER 24's health increased by 6. Current health: 92%
+[2025-03-13 22:25:23] [INFO] LAVENDER 24's health increased by 6. Current health: 98%
+[2025-03-13 22:25:38] [INFO] LAVENDER 24's health increased by 6. Current health: 100%
+[2025-03-13 22:26:47] [INFO] LAVENDER 34's health decreased by 20. Current health: 80%
+
+=== New Garden Simulation Started at 2025-03-13 22:26:30 ===
+
+22:26:47 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 34 at coordinates (4, 2). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:26:59] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:26:59] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:26:59] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:27:12] [INFO] LAVENDER 34's health increased by 6. Current health: 86%
+[2025-03-13 22:27:24] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 22:27:24] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:27:24] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:27:27] [INFO] LAVENDER 34's health increased by 6. Current health: 92%
+[2025-03-13 22:27:31] [INFO] CHERRY 16's health decreased by 15. Current health: 76%
+[2025-03-13 22:27:39] [INFO] CHERRY 16's health increased by 6. Current health: 82%
+[2025-03-13 22:27:39] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:27:39] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 22:27:42] [INFO] LAVENDER 34's health increased by 6. Current health: 98%
+[2025-03-13 22:27:54] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:27:54] [INFO] CHERRY 16's health increased by 6. Current health: 88%
+[2025-03-13 22:27:54] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:27:55] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:27:55] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:27:55] [INFO] CHERRY 16's health decreased by 15. Current health: 73%
+[2025-03-13 22:27:56] [INFO] CHERRY 16's health increased by 6. Current health: 79%
+[2025-03-13 22:27:57] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:28:09] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 22:28:09] [INFO] CHERRY 16's health increased by 6. Current health: 85%
+[2025-03-13 22:28:09] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:28:11] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:28:12] [INFO] LAVENDER 34's health decreased by 20. Current health: 80%
+22:28:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 34 at coordinates (4, 2). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:28:12] [INFO] LAVENDER 32's health decreased by 20. Current health: 80%
+22:28:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 32 at coordinates (4, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:28:12] [INFO] LAVENDER 33's health decreased by 20. Current health: 80%
+22:28:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 33 at coordinates (4, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:28:12] [INFO] LAVENDER 34's health increased by 6. Current health: 86%
+[2025-03-13 22:28:20] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 22:28:20] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:28:20] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 22:28:24] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:28:24] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:28:24] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:28:27] [INFO] LAVENDER 34's health increased by 6. Current health: 92%
+[2025-03-13 22:28:37] [INFO] LAVENDER 34's health increased by 6. Current health: 98%
+[2025-03-13 22:28:37] [INFO] LAVENDER 33's health increased by 6. Current health: 86%
+[2025-03-13 22:28:37] [INFO] LAVENDER 32's health increased by 6. Current health: 86%
+[2025-03-13 22:28:42] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:28:52] [INFO] LAVENDER 32's health increased by 6. Current health: 92%
+[2025-03-13 22:28:52] [INFO] LAVENDER 33's health increased by 6. Current health: 92%
+[2025-03-13 22:28:58] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:28:58] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:29:05] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:29:05] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:29:07] [INFO] LAVENDER 32's health increased by 6. Current health: 98%
+[2025-03-13 22:29:07] [INFO] LAVENDER 33's health increased by 6. Current health: 98%
+[2025-03-13 22:29:09] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:29:09] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 22:29:11] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:29:20] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:29:22] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:29:22] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:29:52] [INFO] LAVENDER 33's health decreased by 20. Current health: 80%
+22:29:52 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 33 at coordinates (4, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:29:52] [INFO] LAVENDER 32's health decreased by 20. Current health: 80%
+22:29:52 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 32 at coordinates (4, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:30:07] [INFO] LAVENDER 32's health increased by 6. Current health: 86%
+[2025-03-13 22:30:07] [INFO] LAVENDER 33's health increased by 6. Current health: 86%
+[2025-03-13 22:30:17] [INFO] LAVENDER 33's health increased by 6. Current health: 92%
+[2025-03-13 22:30:17] [INFO] LAVENDER 32's health increased by 6. Current health: 92%
+[2025-03-13 22:30:22] [INFO] LAVENDER 33's health increased by 6. Current health: 98%
+[2025-03-13 22:30:22] [INFO] LAVENDER 32's health increased by 6. Current health: 98%
+[2025-03-13 22:30:32] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:30:32] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:30:42] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:30:50] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 22:30:54] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:31:20] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:31:20] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:31:22] [INFO] CHERRY 18's health increased by 4. Current health: 89%
+[2025-03-13 22:31:23] [INFO] CHERRY 16's health increased by 4. Current health: 89%
+[2025-03-13 22:31:24] [INFO] CHERRY 18's health increased by 4. Current health: 93%
+[2025-03-13 22:31:24] [INFO] CHERRY 16's health increased by 4. Current health: 93%
+[2025-03-13 22:31:26] [INFO] CHERRY 16's health increased by 4. Current health: 97%
+[2025-03-13 22:31:35] [INFO] CHERRY 18's health increased by 4. Current health: 97%
+[2025-03-13 22:31:35] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 22:31:37] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 22:31:51] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:31:51] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:31:52] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 22:31:53] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 22:31:54] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 22:31:54] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 22:32:00] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] CHERRY 17's health decreased by 10. Current health: 88%
+[2025-03-13 22:32:00] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] CHERRY 18's health decreased by 10. Current health: 88%
+[2025-03-13 22:32:00] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] LAVENDER 34 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] LAVENDER 34's health decreased by 10. Current health: 90%
+[2025-03-13 22:32:00] [WARNING] LAVENDER 34 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] LAVENDER 33 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] LAVENDER 33's health decreased by 10. Current health: 90%
+[2025-03-13 22:32:00] [WARNING] LAVENDER 33 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 22:32:00] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] LAVENDER 32 watered with 25 units.
+[2025-03-13 22:32:00] [INFO] LAVENDER 32's health decreased by 10. Current health: 90%
+[2025-03-13 22:32:00] [WARNING] LAVENDER 32 has been overwatered and its health decreased.
+[2025-03-13 22:32:00] [INFO] CHERRY 18's health increased by 6. Current health: 94%
+[2025-03-13 22:32:00] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 22:32:02] [INFO] LAVENDER 33's health increased by 6. Current health: 96%
+[2025-03-13 22:32:02] [INFO] LAVENDER 32's health increased by 6. Current health: 96%
+[2025-03-13 22:32:05] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:32:05] [INFO] CHERRY 17's health increased by 6. Current health: 94%
+[2025-03-13 22:32:05] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:32:07] [INFO] LAVENDER 34's health increased by 6. Current health: 96%
+[2025-03-13 22:32:07] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:32:07] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:32:08] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:32:12] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:32:23] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:32:23] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:32:24] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 22:32:24] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:32:30] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 22:32:31] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:32:31] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:32:35] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:33:18] [INFO] LAVENDER 34's health decreased by 20. Current health: 80%
+22:33:18 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 34 at coordinates (4, 2). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:33:18] [INFO] LAVENDER 33's health decreased by 20. Current health: 80%
+22:33:18 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 33 at coordinates (4, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:33:18] [INFO] LAVENDER 32's health decreased by 20. Current health: 80%
+22:33:18 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 32 at coordinates (4, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:33:22] [INFO] LAVENDER 34's health increased by 6. Current health: 86%
+[2025-03-13 22:33:22] [INFO] LAVENDER 32's health increased by 6. Current health: 86%
+[2025-03-13 22:33:22] [INFO] LAVENDER 33's health increased by 6. Current health: 86%
+[2025-03-13 22:33:27] [INFO] LAVENDER 34's health increased by 6. Current health: 92%
+[2025-03-13 22:33:32] [INFO] LAVENDER 33's health increased by 4. Current health: 90%
+[2025-03-13 22:33:32] [INFO] LAVENDER 32's health increased by 4. Current health: 90%
+[2025-03-13 22:33:37] [INFO] LAVENDER 34's health increased by 4. Current health: 96%
+[2025-03-13 22:33:37] [INFO] LAVENDER 32's health increased by 4. Current health: 94%
+[2025-03-13 22:33:37] [INFO] LAVENDER 33's health increased by 4. Current health: 94%
+[2025-03-13 22:33:42] [INFO] LAVENDER 34's health increased by 4. Current health: 100%
+[2025-03-13 22:33:43] [INFO] LAVENDER 32's health increased by 4. Current health: 98%
+[2025-03-13 22:33:43] [INFO] LAVENDER 33's health increased by 4. Current health: 98%
+[2025-03-13 22:33:47] [INFO] LAVENDER 32's health increased by 4. Current health: 100%
+[2025-03-13 22:33:47] [INFO] LAVENDER 33's health increased by 4. Current health: 100%
+[2025-03-13 22:34:30] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 22:34:30] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 22:34:30] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 22:34:30] [INFO] LAVENDER 34 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] LAVENDER 34's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] LAVENDER 34 has been overwatered and its health decreased.
+[2025-03-13 22:34:30] [INFO] LAVENDER 33 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] LAVENDER 33's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] LAVENDER 33 has been overwatered and its health decreased.
+[2025-03-13 22:34:30] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 22:34:30] [INFO] LAVENDER 32 watered with 25 units.
+[2025-03-13 22:34:30] [INFO] LAVENDER 32's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:30] [WARNING] LAVENDER 32 has been overwatered and its health decreased.
+[2025-03-13 22:34:31] [INFO] CHERRY 16's health decreased by 15. Current health: 75%
+[2025-03-13 22:34:31] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:34:31] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 22:34:32] [INFO] LAVENDER 33's health increased by 6. Current health: 96%
+[2025-03-13 22:34:32] [INFO] LAVENDER 32's health increased by 6. Current health: 96%
+[2025-03-13 22:34:33] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:34:35] [INFO] CHERRY 16's health increased by 6. Current health: 81%
+[2025-03-13 22:34:37] [INFO] LAVENDER 34's health increased by 6. Current health: 96%
+[2025-03-13 22:34:37] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:34:37] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:34:38] [INFO] CHERRY 16's health increased by 6. Current health: 87%
+[2025-03-13 22:34:39] [INFO] CHERRY 16's health increased by 6. Current health: 93%
+[2025-03-13 22:34:41] [INFO] CHERRY 16's health increased by 6. Current health: 99%
+[2025-03-13 22:34:42] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:34:45] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:34:49] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:49] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:34:50] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 22:34:50] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 22:34:52] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:34:53] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:35:48] [INFO] LAVENDER 34's health decreased by 20. Current health: 80%
+22:35:48 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 34 at coordinates (4, 2). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:35:48] [INFO] LAVENDER 32's health decreased by 20. Current health: 80%
+22:35:48 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 32 at coordinates (4, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:35:52] [INFO] LAVENDER 34's health increased by 6. Current health: 86%
+[2025-03-13 22:35:52] [INFO] LAVENDER 32's health increased by 6. Current health: 86%
+[2025-03-13 22:35:57] [INFO] LAVENDER 34's health increased by 6. Current health: 92%
+[2025-03-13 22:35:58] [INFO] LAVENDER 34's health increased by 6. Current health: 98%
+[2025-03-13 22:35:58] [INFO] LAVENDER 32's health increased by 6. Current health: 92%
+[2025-03-13 22:36:02] [INFO] LAVENDER 32's health increased by 4. Current health: 96%
+[2025-03-13 22:36:04] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:36:04] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:36:04] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 22:36:05] [INFO] CHERRY 18's health increased by 4. Current health: 94%
+[2025-03-13 22:36:05] [INFO] CHERRY 17's health increased by 4. Current health: 94%
+[2025-03-13 22:36:05] [INFO] CHERRY 16's health increased by 4. Current health: 94%
+[2025-03-13 22:36:07] [INFO] LAVENDER 34's health increased by 4. Current health: 100%
+[2025-03-13 22:36:07] [INFO] LAVENDER 32's health increased by 4. Current health: 100%
+[2025-03-13 22:36:07] [INFO] CHERRY 18's health increased by 4. Current health: 98%
+[2025-03-13 22:36:08] [INFO] CHERRY 16's health increased by 4. Current health: 98%
+[2025-03-13 22:36:08] [INFO] CHERRY 17's health increased by 4. Current health: 98%
+[2025-03-13 22:36:09] [INFO] CHERRY 18's health increased by 4. Current health: 100%
+[2025-03-13 22:36:09] [INFO] CHERRY 17's health increased by 4. Current health: 100%
+[2025-03-13 22:36:09] [INFO] CHERRY 16's health increased by 4. Current health: 100%
+[2025-03-13 22:36:57] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:36:57] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:37:00] [INFO] CHERRY 18's health increased by 4. Current health: 89%
+[2025-03-13 22:37:00] [INFO] CHERRY 16's health increased by 4. Current health: 89%
+[2025-03-13 22:37:00] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:37:00] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 22:37:00] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] CHERRY 18's health decreased by 10. Current health: 79%
+[2025-03-13 22:37:00] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 22:37:00] [INFO] LAVENDER 34 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] LAVENDER 34's health decreased by 10. Current health: 90%
+[2025-03-13 22:37:00] [WARNING] LAVENDER 34 has been overwatered and its health decreased.
+[2025-03-13 22:37:00] [INFO] LAVENDER 33 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] LAVENDER 33's health decreased by 10. Current health: 90%
+[2025-03-13 22:37:00] [WARNING] LAVENDER 33 has been overwatered and its health decreased.
+[2025-03-13 22:37:00] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] CHERRY 16's health decreased by 10. Current health: 79%
+[2025-03-13 22:37:00] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 22:37:00] [INFO] LAVENDER 32 watered with 25 units.
+[2025-03-13 22:37:00] [INFO] LAVENDER 32's health decreased by 10. Current health: 90%
+[2025-03-13 22:37:00] [WARNING] LAVENDER 32 has been overwatered and its health decreased.
+[2025-03-13 22:37:01] [INFO] CHERRY 18's health increased by 6. Current health: 85%
+[2025-03-13 22:37:01] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 22:37:02] [INFO] LAVENDER 33's health increased by 6. Current health: 96%
+[2025-03-13 22:37:02] [INFO] LAVENDER 32's health increased by 6. Current health: 96%
+[2025-03-13 22:37:03] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:37:05] [INFO] CHERRY 16's health increased by 6. Current health: 85%
+[2025-03-13 22:37:05] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 22:37:07] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:37:07] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:37:07] [INFO] LAVENDER 34's health increased by 6. Current health: 96%
+[2025-03-13 22:37:07] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 22:37:08] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:37:09] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:37:09] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 22:37:11] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:37:12] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:37:52] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:37:52] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:37:52] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:37:53] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 22:37:53] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:37:54] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:37:54] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:38:01] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:38:16] [INFO] CHERRY 18's health decreased by 15. Current health: 85%
+[2025-03-13 22:38:20] [INFO] CHERRY 18's health increased by 6. Current health: 91%
+[2025-03-13 22:38:22] [INFO] CHERRY 18's health increased by 6. Current health: 97%
+[2025-03-13 22:38:22] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:39:30] [INFO] CHERRY 17 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] CHERRY 17 has been overwatered and its health decreased.
+[2025-03-13 22:39:30] [INFO] CHERRY 18 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] CHERRY 18 has been overwatered and its health decreased.
+[2025-03-13 22:39:30] [INFO] LAVENDER 34 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] LAVENDER 34's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] LAVENDER 34 has been overwatered and its health decreased.
+[2025-03-13 22:39:30] [INFO] LAVENDER 33 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] LAVENDER 33's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] LAVENDER 33 has been overwatered and its health decreased.
+[2025-03-13 22:39:30] [INFO] CHERRY 16 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] CHERRY 16 has been overwatered and its health decreased.
+[2025-03-13 22:39:30] [INFO] LAVENDER 32 watered with 25 units.
+[2025-03-13 22:39:30] [INFO] LAVENDER 32's health decreased by 10. Current health: 90%
+[2025-03-13 22:39:30] [WARNING] LAVENDER 32 has been overwatered and its health decreased.
+[2025-03-13 22:39:31] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 22:39:31] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 22:39:32] [INFO] LAVENDER 33's health increased by 6. Current health: 96%
+[2025-03-13 22:39:32] [INFO] LAVENDER 32's health increased by 6. Current health: 96%
+[2025-03-13 22:39:33] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:39:35] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 22:39:35] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:39:37] [INFO] LAVENDER 34's health increased by 6. Current health: 96%
+[2025-03-13 22:39:37] [INFO] LAVENDER 32's health increased by 6. Current health: 100%
+[2025-03-13 22:39:37] [INFO] LAVENDER 33's health increased by 6. Current health: 100%
+[2025-03-13 22:39:37] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:39:42] [INFO] LAVENDER 34's health increased by 6. Current health: 100%
+[2025-03-13 22:39:56] [INFO] CHERRY 16's health decreased by 15. Current health: 85%
+[2025-03-13 22:39:56] [INFO] CHERRY 17's health decreased by 15. Current health: 85%
+[2025-03-13 22:40:00] [INFO] CHERRY 16's health increased by 6. Current health: 91%
+[2025-03-13 22:40:01] [INFO] CHERRY 17's health increased by 6. Current health: 91%
+[2025-03-13 22:40:03] [INFO] CHERRY 17's health increased by 6. Current health: 97%
+[2025-03-13 22:40:05] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:40:05] [INFO] CHERRY 16's health increased by 6. Current health: 97%
+[2025-03-13 22:40:07] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:40:16] [INFO] CHERRY 16's health decreased by 10. Current health: 90%
+[2025-03-13 22:40:16] [INFO] CHERRY 17's health decreased by 10. Current health: 90%
+[2025-03-13 22:40:16] [INFO] CHERRY 18's health decreased by 10. Current health: 90%
+[2025-03-13 22:40:18] [INFO] CHERRY 17's health increased by 6. Current health: 96%
+[2025-03-13 22:40:20] [INFO] CHERRY 18's health increased by 6. Current health: 96%
+[2025-03-13 22:40:20] [INFO] CHERRY 17's health increased by 6. Current health: 100%
+[2025-03-13 22:40:20] [INFO] CHERRY 16's health increased by 6. Current health: 96%
+[2025-03-13 22:40:21] [INFO] CHERRY 16's health increased by 6. Current health: 100%
+[2025-03-13 22:40:22] [INFO] CHERRY 18's health increased by 6. Current health: 100%
+[2025-03-13 22:44:51] [INFO] LAVENDER 25's health decreased by 20. Current health: 80%
+
+=== New Garden Simulation Started at 2025-03-13 22:44:05 ===
+
+22:44:51 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:45:09] [INFO] LAVENDER 25's health decreased by 20. Current health: 60%
+22:45:09 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 60%
+
+[2025-03-13 22:45:16] [INFO] LAVENDER 25's health increased by 6. Current health: 66%
+[2025-03-13 22:45:31] [INFO] LAVENDER 25's health increased by 6. Current health: 72%
+[2025-03-13 22:45:34] [INFO] LAVENDER 25's health increased by 6. Current health: 78%
+[2025-03-13 22:45:40] [INFO] LAVENDER 24's health decreased by 20. Current health: 80%
+22:45:40 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 24 at coordinates (3, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:45:40] [INFO] LAVENDER 25's health decreased by 20. Current health: 58%
+22:45:40 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 58%
+
+[2025-03-13 22:45:46] [INFO] LAVENDER 25's health increased by 6. Current health: 64%
+[2025-03-13 22:45:49] [INFO] LAVENDER 25's health increased by 6. Current health: 70%
+[2025-03-13 22:46:01] [INFO] LAVENDER 25's health increased by 6. Current health: 76%
+[2025-03-13 22:46:04] [INFO] LAVENDER 25's health increased by 6. Current health: 82%
+[2025-03-13 22:46:05] [INFO] LAVENDER 24's health increased by 6. Current health: 86%
+[2025-03-13 22:46:05] [INFO] LAVENDER 25's health increased by 6. Current health: 88%
+[2025-03-13 22:46:16] [INFO] LAVENDER 25's health increased by 6. Current health: 94%
+[2025-03-13 22:46:19] [INFO] LAVENDER 25's health increased by 6. Current health: 100%
+[2025-03-13 22:46:20] [INFO] LAVENDER 24's health increased by 6. Current health: 92%
+[2025-03-13 22:46:35] [INFO] LAVENDER 24's health increased by 6. Current health: 98%
+[2025-03-13 22:46:50] [INFO] LAVENDER 24's health increased by 6. Current health: 100%
+[2025-03-13 22:48:25] [INFO] LAVENDER 25's health decreased by 20. Current health: 80%
+22:48:25 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:48:25] [INFO] LAVENDER 24's health decreased by 20. Current health: 80%
+22:48:25 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 24 at coordinates (3, 0). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:48:31] [INFO] LAVENDER 25's health increased by 6. Current health: 86%
+[2025-03-13 22:48:34] [INFO] LAVENDER 25's health increased by 6. Current health: 92%
+[2025-03-13 22:48:35] [INFO] LAVENDER 25's health increased by 6. Current health: 98%
+[2025-03-13 22:48:35] [INFO] LAVENDER 24's health increased by 6. Current health: 86%
+[2025-03-13 22:48:36] [INFO] LAVENDER 24's health decreased by 20. Current health: 66%
+22:48:36 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 24 at coordinates (3, 0). Damage: -20 HP. Current health: 66%
+
+[2025-03-13 22:48:36] [INFO] LAVENDER 25's health decreased by 20. Current health: 78%
+22:48:36 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 78%
+
+[2025-03-13 22:48:46] [INFO] LAVENDER 25's health increased by 4. Current health: 82%
+[2025-03-13 22:48:49] [INFO] LAVENDER 25's health increased by 4. Current health: 86%
+[2025-03-13 22:48:50] [INFO] LAVENDER 24's health increased by 4. Current health: 70%
+[2025-03-13 22:48:50] [INFO] LAVENDER 25's health increased by 4. Current health: 90%
+[2025-03-13 22:48:50] [INFO] LAVENDER 24's health increased by 4. Current health: 74%
+[2025-03-13 22:48:50] [INFO] LAVENDER 25's health increased by 4. Current health: 94%
+[2025-03-13 22:49:01] [INFO] LAVENDER 25's health increased by 4. Current health: 98%
+[2025-03-13 22:49:01] [INFO] LAVENDER 24's health increased by 4. Current health: 78%
+[2025-03-13 22:49:01] [INFO] LAVENDER 25's health increased by 4. Current health: 100%
+[2025-03-13 22:49:05] [INFO] LAVENDER 24's health increased by 4. Current health: 82%
+[2025-03-13 22:49:05] [INFO] LAVENDER 24's health increased by 4. Current health: 86%
+[2025-03-13 22:49:16] [INFO] LAVENDER 24's health increased by 4. Current health: 90%
+[2025-03-13 22:49:20] [INFO] LAVENDER 24's health increased by 4. Current health: 94%
+[2025-03-13 22:49:20] [INFO] LAVENDER 24's health increased by 4. Current health: 98%
+[2025-03-13 22:49:31] [INFO] LAVENDER 24's health increased by 4. Current health: 100%
+[2025-03-13 22:49:36] [INFO] LAVENDER 25 watered with 25 units.
+[2025-03-13 22:49:36] [INFO] LAVENDER 25's health decreased by 10. Current health: 90%
+[2025-03-13 22:49:36] [WARNING] LAVENDER 25 has been overwatered and its health decreased.
+[2025-03-13 22:49:36] [INFO] LAVENDER 24 watered with 25 units.
+[2025-03-13 22:49:36] [INFO] LAVENDER 24's health decreased by 10. Current health: 90%
+[2025-03-13 22:49:36] [WARNING] LAVENDER 24 has been overwatered and its health decreased.
+[2025-03-13 22:49:46] [INFO] LAVENDER 25's health increased by 6. Current health: 96%
+[2025-03-13 22:49:46] [INFO] LAVENDER 24's health increased by 6. Current health: 96%
+[2025-03-13 22:49:46] [INFO] LAVENDER 25's health increased by 6. Current health: 100%
+[2025-03-13 22:49:50] [INFO] LAVENDER 24's health increased by 6. Current health: 100%
+[2025-03-13 22:50:46] [INFO] LAVENDER 25's health decreased by 20. Current health: 80%
+22:50:46 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 25 at coordinates (3, 1). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:50:49] [INFO] LAVENDER 25's health increased by 6. Current health: 86%
+[2025-03-13 22:50:50] [INFO] LAVENDER 25's health increased by 6. Current health: 92%
+[2025-03-13 22:50:50] [INFO] LAVENDER 25's health increased by 6. Current health: 98%
+[2025-03-13 22:51:01] [INFO] LAVENDER 25's health increased by 6. Current health: 100%
+[2025-03-13 22:52:06] [INFO] LAVENDER 25 watered with 25 units.
+[2025-03-13 22:52:06] [INFO] LAVENDER 25's health decreased by 10. Current health: 90%
+[2025-03-13 22:52:06] [WARNING] LAVENDER 25 has been overwatered and its health decreased.
+[2025-03-13 22:52:06] [INFO] LAVENDER 24 watered with 25 units.
+[2025-03-13 22:52:06] [INFO] LAVENDER 24's health decreased by 10. Current health: 90%
+[2025-03-13 22:52:06] [WARNING] LAVENDER 24 has been overwatered and its health decreased.
+[2025-03-13 22:52:11] [INFO] LAVENDER 25's health increased by 6. Current health: 96%
+[2025-03-13 22:52:16] [INFO] LAVENDER 25's health increased by 6. Current health: 100%
+[2025-03-13 22:52:16] [INFO] LAVENDER 24's health increased by 6. Current health: 96%
+[2025-03-13 22:52:20] [INFO] LAVENDER 24's health increased by 6. Current health: 100%
+[2025-03-13 22:55:30] [INFO] SUNFLOWER 41's health decreased by 12. Current health: 88%
+[2025-03-13 22:55:30] [INFO] CHERRY 24's health decreased by 15. Current health: 85%
+[2025-03-13 22:55:30] [INFO] CHERRY 28's health decreased by 15. Current health: 85%
+[2025-03-13 22:55:30] [INFO] CHERRY 26's health decreased by 15. Current health: 85%
+[2025-03-13 22:55:30] [INFO] CHERRY 27's health decreased by 15. Current health: 85%
+[2025-03-13 22:55:30] [INFO] SUNFLOWER 42's health decreased by 12. Current health: 88%
+[2025-03-13 22:57:39] [INFO] LAVENDER 27's health decreased by 20. Current health: 80%
+
+=== New Garden Simulation Started at 2025-03-13 22:56:54 ===
+
+22:57:39 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 27 at coordinates (3, 3). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:58:04] [INFO] LAVENDER 27's health increased by 6. Current health: 86%
+[2025-03-13 22:58:19] [INFO] LAVENDER 27's health increased by 6. Current health: 92%
+[2025-03-13 22:58:27] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 22:58:27] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 22:58:34] [INFO] LAVENDER 27's health increased by 6. Current health: 98%
+[2025-03-13 22:58:49] [INFO] LAVENDER 27's health increased by 6. Current health: 100%
+[2025-03-13 22:58:52] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 22:58:52] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 22:59:07] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 22:59:07] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 22:59:20] [INFO] LAVENDER 28's health decreased by 20. Current health: 80%
+22:59:20 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 28 at coordinates (3, 4). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 22:59:45] [INFO] LAVENDER 28's health increased by 6. Current health: 86%
+[2025-03-13 22:59:47] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 22:59:52] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:00:00] [INFO] LAVENDER 28's health increased by 6. Current health: 92%
+[2025-03-13 23:00:07] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:00:15] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:00:15] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:00:15] [INFO] LAVENDER 28's health increased by 6. Current health: 98%
+[2025-03-13 23:00:22] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 23:00:22] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:00:27] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:00:30] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:00:37] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:00:38] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:00:38] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:00:40] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 23:00:40] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:00:42] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:00:49] [INFO] APPLE 9's health decreased by 10. Current health: 88%
+[2025-03-13 23:00:49] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:00:52] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:00:52] [INFO] APPLE 9's health increased by 6. Current health: 94%
+[2025-03-13 23:00:55] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:00:55] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:01:00] [INFO] LAVENDER 27's health decreased by 20. Current health: 80%
+23:01:00 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 27 at coordinates (3, 3). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:01:00] [INFO] LAVENDER 29's health decreased by 20. Current health: 80%
+23:01:00 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 29 at coordinates (3, 5). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:01:04] [INFO] LAVENDER 27's health increased by 6. Current health: 86%
+[2025-03-13 23:01:19] [INFO] LAVENDER 27's health increased by 6. Current health: 92%
+[2025-03-13 23:01:25] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:01:25] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:01:25] [INFO] APPLE 10's health increased by 4. Current health: 96%
+[2025-03-13 23:01:25] [INFO] APPLE 9's health increased by 4. Current health: 96%
+[2025-03-13 23:01:25] [INFO] LAVENDER 29's health increased by 4. Current health: 84%
+[2025-03-13 23:01:25] [INFO] LAVENDER 27's health increased by 4. Current health: 96%
+[2025-03-13 23:01:27] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:01:33] [INFO] APPLE 9's health increased by 4. Current health: 100%
+[2025-03-13 23:01:34] [INFO] LAVENDER 27's health increased by 4. Current health: 100%
+[2025-03-13 23:01:40] [INFO] LAVENDER 29's health increased by 4. Current health: 88%
+[2025-03-13 23:01:55] [INFO] LAVENDER 29's health increased by 4. Current health: 92%
+[2025-03-13 23:02:04] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:04] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:07] [INFO] APPLE 10's health increased by 4. Current health: 94%
+[2025-03-13 23:02:07] [INFO] APPLE 9's health increased by 4. Current health: 94%
+[2025-03-13 23:02:10] [INFO] APPLE 10's health increased by 4. Current health: 98%
+[2025-03-13 23:02:10] [INFO] APPLE 9's health increased by 4. Current health: 98%
+[2025-03-13 23:02:10] [INFO] LAVENDER 29's health increased by 4. Current health: 96%
+[2025-03-13 23:02:12] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:02:18] [INFO] APPLE 9's health increased by 4. Current health: 100%
+[2025-03-13 23:02:25] [INFO] APPLE 10 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:25] [WARNING] APPLE 10 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] APPLE 9 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:25] [WARNING] APPLE 9 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] LAVENDER 30 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] LAVENDER 30's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:25] [WARNING] LAVENDER 30 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] LAVENDER 29 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] LAVENDER 29's health decreased by 10. Current health: 86%
+[2025-03-13 23:02:25] [WARNING] LAVENDER 29 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] LAVENDER 28 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] LAVENDER 28's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:25] [WARNING] LAVENDER 28 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] LAVENDER 27 watered with 25 units.
+[2025-03-13 23:02:25] [INFO] LAVENDER 27's health decreased by 10. Current health: 90%
+[2025-03-13 23:02:25] [WARNING] LAVENDER 27 has been overwatered and its health decreased.
+[2025-03-13 23:02:25] [INFO] LAVENDER 29's health increased by 6. Current health: 92%
+[2025-03-13 23:02:25] [INFO] LAVENDER 27's health increased by 6. Current health: 96%
+[2025-03-13 23:02:27] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:02:29] [INFO] APPLE 9's health increased by 6. Current health: 96%
+[2025-03-13 23:02:30] [INFO] LAVENDER 28's health increased by 6. Current health: 96%
+[2025-03-13 23:02:33] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:02:34] [INFO] LAVENDER 27's health increased by 6. Current health: 100%
+[2025-03-13 23:02:37] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:02:40] [INFO] LAVENDER 29's health increased by 6. Current health: 98%
+[2025-03-13 23:02:45] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:02:55] [INFO] LAVENDER 29's health increased by 6. Current health: 100%
+[2025-03-13 23:03:15] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:03:15] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:03:18] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 23:03:22] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:03:22] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:03:25] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:03:38] [INFO] LAVENDER 28's health decreased by 20. Current health: 80%
+23:03:38 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 28 at coordinates (3, 4). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:03:38] [INFO] LAVENDER 29's health decreased by 20. Current health: 80%
+23:03:38 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 29 at coordinates (3, 5). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:03:38] [INFO] LAVENDER 27's health decreased by 20. Current health: 80%
+23:03:38 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 27 at coordinates (3, 3). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:03:38] [INFO] LAVENDER 30's health decreased by 20. Current health: 70%
+23:03:38 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 30 at coordinates (3, 6). Damage: -20 HP. Current health: 70%
+
+[2025-03-13 23:03:40] [INFO] LAVENDER 29's health increased by 6. Current health: 86%
+[2025-03-13 23:03:40] [INFO] LAVENDER 27's health increased by 6. Current health: 86%
+[2025-03-13 23:03:45] [INFO] LAVENDER 28's health increased by 6. Current health: 86%
+[2025-03-13 23:03:49] [INFO] LAVENDER 27's health increased by 6. Current health: 92%
+[2025-03-13 23:03:55] [INFO] LAVENDER 29's health increased by 6. Current health: 92%
+[2025-03-13 23:03:55] [INFO] LAVENDER 27's health increased by 6. Current health: 98%
+[2025-03-13 23:04:00] [INFO] LAVENDER 28's health increased by 4. Current health: 90%
+[2025-03-13 23:04:03] [INFO] LAVENDER 30's health increased by 4. Current health: 74%
+[2025-03-13 23:04:03] [INFO] LAVENDER 27's health increased by 4. Current health: 100%
+[2025-03-13 23:04:03] [INFO] LAVENDER 28's health increased by 4. Current health: 94%
+[2025-03-13 23:04:03] [INFO] LAVENDER 29's health increased by 4. Current health: 96%
+[2025-03-13 23:04:10] [INFO] LAVENDER 29's health increased by 4. Current health: 100%
+[2025-03-13 23:04:12] [INFO] LAVENDER 30's health decreased by 20. Current health: 54%
+23:04:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 30 at coordinates (3, 6). Damage: -20 HP. Current health: 54%
+
+[2025-03-13 23:04:12] [INFO] LAVENDER 29's health decreased by 20. Current health: 80%
+23:04:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 29 at coordinates (3, 5). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:04:12] [INFO] LAVENDER 27's health decreased by 20. Current health: 80%
+23:04:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 27 at coordinates (3, 3). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:04:12] [INFO] LAVENDER 28's health decreased by 20. Current health: 74%
+23:04:12 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 28 at coordinates (3, 4). Damage: -20 HP. Current health: 74%
+
+[2025-03-13 23:04:15] [INFO] LAVENDER 28's health increased by 4. Current health: 78%
+[2025-03-13 23:04:18] [INFO] LAVENDER 30's health increased by 4. Current health: 58%
+[2025-03-13 23:04:18] [INFO] LAVENDER 27's health increased by 4. Current health: 84%
+[2025-03-13 23:04:18] [INFO] LAVENDER 28's health increased by 4. Current health: 82%
+[2025-03-13 23:04:18] [INFO] LAVENDER 29's health increased by 4. Current health: 84%
+[2025-03-13 23:04:19] [INFO] LAVENDER 27's health increased by 4. Current health: 88%
+[2025-03-13 23:04:25] [INFO] LAVENDER 29's health increased by 4. Current health: 88%
+[2025-03-13 23:04:25] [INFO] LAVENDER 27's health increased by 4. Current health: 92%
+[2025-03-13 23:04:30] [INFO] LAVENDER 28's health increased by 4. Current health: 86%
+[2025-03-13 23:04:33] [INFO] LAVENDER 30's health increased by 4. Current health: 62%
+[2025-03-13 23:04:33] [INFO] LAVENDER 29's health increased by 4. Current health: 92%
+[2025-03-13 23:04:33] [INFO] LAVENDER 28's health increased by 4. Current health: 90%
+[2025-03-13 23:04:33] [INFO] LAVENDER 27's health increased by 4. Current health: 96%
+[2025-03-13 23:04:34] [INFO] LAVENDER 27's health increased by 4. Current health: 100%
+[2025-03-13 23:04:37] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:37] [INFO] LAVENDER 30's health increased by 4. Current health: 66%
+[2025-03-13 23:04:37] [INFO] LAVENDER 29's health increased by 4. Current health: 96%
+[2025-03-13 23:04:37] [INFO] LAVENDER 28's health increased by 4. Current health: 94%
+[2025-03-13 23:04:40] [INFO] APPLE 10's health increased by 4. Current health: 94%
+[2025-03-13 23:04:40] [INFO] LAVENDER 29's health increased by 4. Current health: 100%
+[2025-03-13 23:04:42] [INFO] APPLE 10's health increased by 4. Current health: 98%
+[2025-03-13 23:04:45] [INFO] LAVENDER 28's health increased by 4. Current health: 98%
+[2025-03-13 23:04:48] [INFO] LAVENDER 30's health increased by 4. Current health: 70%
+[2025-03-13 23:04:48] [INFO] LAVENDER 28's health increased by 4. Current health: 100%
+[2025-03-13 23:04:52] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:04:52] [INFO] LAVENDER 30's health increased by 4. Current health: 74%
+[2025-03-13 23:04:55] [INFO] APPLE 10 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:55] [WARNING] APPLE 10 has been overwatered and its health decreased.
+[2025-03-13 23:04:55] [INFO] APPLE 9 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:55] [WARNING] APPLE 9 has been overwatered and its health decreased.
+[2025-03-13 23:04:55] [INFO] LAVENDER 30 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] LAVENDER 30's health decreased by 10. Current health: 64%
+[2025-03-13 23:04:55] [WARNING] LAVENDER 30 has been overwatered and its health decreased.
+[2025-03-13 23:04:55] [INFO] LAVENDER 29 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] LAVENDER 29's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:55] [WARNING] LAVENDER 29 has been overwatered and its health decreased.
+[2025-03-13 23:04:55] [INFO] LAVENDER 28 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] LAVENDER 28's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:55] [WARNING] LAVENDER 28 has been overwatered and its health decreased.
+[2025-03-13 23:04:55] [INFO] LAVENDER 27 watered with 25 units.
+[2025-03-13 23:04:55] [INFO] LAVENDER 27's health decreased by 10. Current health: 90%
+[2025-03-13 23:04:55] [WARNING] LAVENDER 27 has been overwatered and its health decreased.
+[2025-03-13 23:04:57] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:04:59] [INFO] APPLE 9's health increased by 6. Current health: 96%
+[2025-03-13 23:05:00] [INFO] LAVENDER 28's health increased by 6. Current health: 96%
+[2025-03-13 23:05:02] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:05:03] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:05:03] [INFO] LAVENDER 30's health increased by 6. Current health: 70%
+[2025-03-13 23:05:03] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:05:03] [INFO] LAVENDER 29's health increased by 6. Current health: 96%
+[2025-03-13 23:05:03] [INFO] LAVENDER 27's health increased by 6. Current health: 96%
+[2025-03-13 23:05:04] [INFO] LAVENDER 27's health increased by 6. Current health: 100%
+[2025-03-13 23:05:04] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:05:04] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:05:07] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:05:07] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 23:05:07] [INFO] LAVENDER 30's health increased by 6. Current health: 76%
+[2025-03-13 23:05:07] [INFO] LAVENDER 29's health increased by 6. Current health: 100%
+[2025-03-13 23:05:10] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:05:10] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:05:18] [INFO] LAVENDER 30's health increased by 6. Current health: 82%
+[2025-03-13 23:05:22] [INFO] LAVENDER 30's health increased by 6. Current health: 88%
+[2025-03-13 23:05:33] [INFO] LAVENDER 30's health increased by 6. Current health: 94%
+[2025-03-13 23:05:37] [INFO] LAVENDER 30's health increased by 6. Current health: 100%
+[2025-03-13 23:06:08] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:06:10] [INFO] APPLE 9's health increased by 6. Current health: 96%
+[2025-03-13 23:06:14] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:06:46] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:06:47] [INFO] APPLE 10's health increased by 4. Current health: 96%
+[2025-03-13 23:06:52] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:07:15] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:18] [INFO] APPLE 9's health increased by 4. Current health: 94%
+[2025-03-13 23:07:22] [INFO] APPLE 9's health increased by 4. Current health: 98%
+[2025-03-13 23:07:25] [INFO] APPLE 9's health increased by 4. Current health: 100%
+[2025-03-13 23:07:25] [INFO] APPLE 10 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] APPLE 10 has been overwatered and its health decreased.
+[2025-03-13 23:07:25] [INFO] APPLE 9 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] APPLE 9 has been overwatered and its health decreased.
+[2025-03-13 23:07:25] [INFO] LAVENDER 30 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] LAVENDER 30's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] LAVENDER 30 has been overwatered and its health decreased.
+[2025-03-13 23:07:25] [INFO] LAVENDER 29 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] LAVENDER 29's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] LAVENDER 29 has been overwatered and its health decreased.
+[2025-03-13 23:07:25] [INFO] LAVENDER 28 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] LAVENDER 28's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] LAVENDER 28 has been overwatered and its health decreased.
+[2025-03-13 23:07:25] [INFO] LAVENDER 27 watered with 25 units.
+[2025-03-13 23:07:25] [INFO] LAVENDER 27's health decreased by 10. Current health: 90%
+[2025-03-13 23:07:25] [WARNING] LAVENDER 27 has been overwatered and its health decreased.
+[2025-03-13 23:07:27] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:07:29] [INFO] APPLE 9's health increased by 6. Current health: 96%
+[2025-03-13 23:07:30] [INFO] LAVENDER 28's health increased by 6. Current health: 96%
+[2025-03-13 23:07:32] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:07:33] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:07:33] [INFO] LAVENDER 29's health increased by 6. Current health: 96%
+[2025-03-13 23:07:33] [INFO] LAVENDER 30's health increased by 6. Current health: 96%
+[2025-03-13 23:07:33] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:07:33] [INFO] LAVENDER 27's health increased by 6. Current health: 96%
+[2025-03-13 23:07:34] [INFO] LAVENDER 27's health increased by 6. Current health: 100%
+[2025-03-13 23:07:37] [INFO] LAVENDER 30's health increased by 6. Current health: 100%
+[2025-03-13 23:07:37] [INFO] LAVENDER 29's health increased by 6. Current health: 100%
+[2025-03-13 23:08:03] [INFO] LAVENDER 28's health decreased by 20. Current health: 80%
+23:08:03 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 28 at coordinates (3, 4). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:08:03] [INFO] LAVENDER 30's health decreased by 20. Current health: 80%
+23:08:03 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 30 at coordinates (3, 6). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:08:03] [INFO] LAVENDER 29's health decreased by 20. Current health: 80%
+23:08:03 🚨 SEVERE INSECT DAMAGE: Ladybug has caused significant damage to LAVENDER 29 at coordinates (3, 5). Damage: -20 HP. Current health: 80%
+
+[2025-03-13 23:08:07] [INFO] LAVENDER 30's health increased by 6. Current health: 86%
+[2025-03-13 23:08:07] [INFO] LAVENDER 29's health increased by 6. Current health: 86%
+[2025-03-13 23:08:07] [INFO] LAVENDER 28's health increased by 6. Current health: 86%
+[2025-03-13 23:08:10] [INFO] LAVENDER 29's health increased by 6. Current health: 92%
+[2025-03-13 23:08:15] [INFO] LAVENDER 28's health increased by 6. Current health: 92%
+[2025-03-13 23:08:18] [INFO] LAVENDER 30's health increased by 6. Current health: 92%
+[2025-03-13 23:08:18] [INFO] LAVENDER 29's health increased by 6. Current health: 98%
+[2025-03-13 23:08:18] [INFO] LAVENDER 28's health increased by 6. Current health: 98%
+[2025-03-13 23:08:22] [INFO] LAVENDER 30's health increased by 6. Current health: 98%
+[2025-03-13 23:08:22] [INFO] LAVENDER 29's health increased by 6. Current health: 100%
+[2025-03-13 23:08:22] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:08:28] [INFO] LAVENDER 30's health increased by 6. Current health: 100%
+[2025-03-13 23:09:42] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:09:47] [INFO] APPLE 10's health increased by 4. Current health: 96%
+[2025-03-13 23:09:52] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:09:55] [INFO] APPLE 10 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] APPLE 10 has been overwatered and its health decreased.
+[2025-03-13 23:09:55] [INFO] APPLE 9 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] APPLE 9 has been overwatered and its health decreased.
+[2025-03-13 23:09:55] [INFO] LAVENDER 30 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] LAVENDER 30's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] LAVENDER 30 has been overwatered and its health decreased.
+[2025-03-13 23:09:55] [INFO] LAVENDER 29 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] LAVENDER 29's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] LAVENDER 29 has been overwatered and its health decreased.
+[2025-03-13 23:09:55] [INFO] LAVENDER 28 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] LAVENDER 28's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] LAVENDER 28 has been overwatered and its health decreased.
+[2025-03-13 23:09:55] [INFO] LAVENDER 27 watered with 25 units.
+[2025-03-13 23:09:55] [INFO] LAVENDER 27's health decreased by 10. Current health: 90%
+[2025-03-13 23:09:55] [WARNING] LAVENDER 27 has been overwatered and its health decreased.
+[2025-03-13 23:09:57] [INFO] APPLE 10's health increased by 6. Current health: 96%
+[2025-03-13 23:09:58] [INFO] LAVENDER 30's health increased by 6. Current health: 96%
+[2025-03-13 23:09:58] [INFO] LAVENDER 29's health increased by 6. Current health: 96%
+[2025-03-13 23:09:58] [INFO] LAVENDER 28's health increased by 6. Current health: 96%
+[2025-03-13 23:09:59] [INFO] APPLE 9's health increased by 6. Current health: 96%
+[2025-03-13 23:10:00] [INFO] LAVENDER 28's health increased by 6. Current health: 100%
+[2025-03-13 23:10:02] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:10:03] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:10:03] [INFO] LAVENDER 30's health increased by 6. Current health: 100%
+[2025-03-13 23:10:03] [INFO] LAVENDER 29's health increased by 6. Current health: 100%
+[2025-03-13 23:10:03] [INFO] LAVENDER 27's health increased by 6. Current health: 96%
+[2025-03-13 23:10:04] [INFO] LAVENDER 27's health increased by 6. Current health: 100%
+[2025-03-13 23:11:19] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:11:19] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:11:22] [INFO] APPLE 9's health increased by 6. Current health: 98%
+[2025-03-13 23:11:22] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:11:25] [INFO] APPLE 9's health increased by 6. Current health: 100%
+[2025-03-13 23:11:25] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:11:39] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:11:39] [INFO] APPLE 9's health decreased by 8. Current health: 92%
+[2025-03-13 23:11:40] [INFO] APPLE 9's health increased by 4. Current health: 96%
+[2025-03-13 23:11:40] [INFO] APPLE 10's health increased by 4. Current health: 96%
+[2025-03-13 23:11:42] [INFO] APPLE 10's health increased by 4. Current health: 100%
+[2025-03-13 23:11:44] [INFO] APPLE 9's health increased by 4. Current health: 100%
+[2025-03-13 23:11:54] [INFO] APPLE 9's health decreased by 10. Current health: 90%
+[2025-03-13 23:11:54] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:11:55] [INFO] APPLE 10's health increased by 4. Current health: 94%
+[2025-03-13 23:11:55] [INFO] APPLE 9's health increased by 4. Current health: 94%
+[2025-03-13 23:11:57] [INFO] APPLE 10's health increased by 4. Current health: 98%
+[2025-03-13 23:11:59] [INFO] APPLE 9's health increased by 4. Current health: 98%
+[2025-03-13 23:15:09] [INFO] APPLE 19's health decreased by 8. Current health: 92%
+[2025-03-13 23:15:34] [INFO] APPLE 19's health increased by 6. Current health: 98%
+[2025-03-13 23:15:40] [INFO] APPLE 19's health decreased by 8. Current health: 90%
+[2025-03-13 23:15:49] [INFO] APPLE 19's health increased by 6. Current health: 96%
+[2025-03-13 23:16:04] [INFO] APPLE 19's health increased by 6. Current health: 100%
+[2025-03-13 23:16:46] [INFO] CHERRY 37's health decreased by 10. Current health: 90%
+[2025-03-13 23:16:46] [INFO] CHERRY 35's health decreased by 10. Current health: 90%
+[2025-03-13 23:17:11] [INFO] CHERRY 37's health increased by 6. Current health: 96%
+[2025-03-13 23:17:11] [INFO] CHERRY 35's health increased by 6. Current health: 96%
+[2025-03-13 23:17:24] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:17:24] [INFO] APPLE 11's health decreased by 8. Current health: 92%
+[2025-03-13 23:17:24] [INFO] APPLE 12's health decreased by 8. Current health: 92%
+[2025-03-13 23:17:24] [INFO] APPLE 18's health decreased by 8. Current health: 92%
+[2025-03-13 23:17:24] [INFO] APPLE 19's health decreased by 8. Current health: 92%
+[2025-03-13 23:17:26] [INFO] CHERRY 37's health increased by 6. Current health: 100%
+[2025-03-13 23:17:26] [INFO] CHERRY 35's health increased by 6. Current health: 100%
+[2025-03-13 23:17:34] [INFO] APPLE 19's health increased by 6. Current health: 98%
+[2025-03-13 23:17:35] [INFO] APPLE 19's health increased by 6. Current health: 100%
+[2025-03-13 23:17:42] [INFO] APPLE 11's health decreased by 8. Current health: 84%
+[2025-03-13 23:17:49] [INFO] APPLE 18's health increased by 6. Current health: 98%
+[2025-03-13 23:17:49] [INFO] APPLE 12's health increased by 6. Current health: 98%
+[2025-03-13 23:17:49] [INFO] APPLE 11's health increased by 6. Current health: 90%
+[2025-03-13 23:17:49] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:18:04] [INFO] APPLE 12's health increased by 6. Current health: 100%
+[2025-03-13 23:18:04] [INFO] APPLE 18's health increased by 6. Current health: 100%
+[2025-03-13 23:18:04] [INFO] APPLE 11's health increased by 6. Current health: 96%
+[2025-03-13 23:18:04] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:18:07] [INFO] APPLE 11's health increased by 6. Current health: 100%
+[2025-03-13 23:18:21] [INFO] APPLE 18's health decreased by 8. Current health: 92%
+[2025-03-13 23:18:21] [INFO] APPLE 10's health decreased by 8. Current health: 92%
+[2025-03-13 23:18:21] [INFO] APPLE 19's health decreased by 8. Current health: 92%
+[2025-03-13 23:18:34] [INFO] APPLE 19's health increased by 6. Current health: 98%
+[2025-03-13 23:18:34] [INFO] APPLE 18's health increased by 6. Current health: 98%
+[2025-03-13 23:18:34] [INFO] APPLE 19's health increased by 6. Current health: 100%
+[2025-03-13 23:18:34] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:18:46] [INFO] APPLE 18's health increased by 6. Current health: 100%
+[2025-03-13 23:18:46] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:19:56] [INFO] CHERRY 36's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [INFO] CHERRY 36 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] CHERRY 36's health decreased by 10. Current health: 80%
+[2025-03-13 23:20:08] [WARNING] CHERRY 36 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] APPLE 12 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] APPLE 12's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] APPLE 12 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] APPLE 18 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] APPLE 18's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] APPLE 18 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] CHERRY 37 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] CHERRY 37's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] CHERRY 37 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] CHERRY 35 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] CHERRY 35's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] CHERRY 35 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] APPLE 19 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] APPLE 19's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] APPLE 19 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] APPLE 11 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] APPLE 11's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] APPLE 11 has been overwatered and its health decreased.
+[2025-03-13 23:20:08] [INFO] APPLE 10 watered with 25 units.
+[2025-03-13 23:20:08] [INFO] APPLE 10's health decreased by 10. Current health: 90%
+[2025-03-13 23:20:08] [WARNING] APPLE 10 has been overwatered and its health decreased.
+[2025-03-13 23:20:11] [INFO] CHERRY 35's health increased by 6. Current health: 96%
+[2025-03-13 23:20:11] [INFO] CHERRY 37's health increased by 6. Current health: 96%
+[2025-03-13 23:20:11] [INFO] APPLE 10's health decreased by 10. Current health: 80%
+[2025-03-13 23:20:11] [INFO] CHERRY 36's health decreased by 15. Current health: 65%
+[2025-03-13 23:20:11] [INFO] CHERRY 35's health decreased by 15. Current health: 81%
+[2025-03-13 23:20:11] [INFO] APPLE 18's health decreased by 10. Current health: 80%
+[2025-03-13 23:20:11] [INFO] APPLE 12's health decreased by 10. Current health: 80%
+[2025-03-13 23:20:16] [INFO] APPLE 18's health increased by 6. Current health: 86%
+[2025-03-13 23:20:16] [INFO] APPLE 10's health increased by 6. Current health: 86%
+[2025-03-13 23:20:16] [INFO] APPLE 19's health increased by 6. Current health: 96%
+[2025-03-13 23:20:19] [INFO] APPLE 19's health increased by 6. Current health: 100%
+[2025-03-13 23:20:19] [INFO] APPLE 18's health increased by 6. Current health: 92%
+[2025-03-13 23:20:19] [INFO] APPLE 12's health increased by 6. Current health: 86%
+[2025-03-13 23:20:19] [INFO] APPLE 11's health increased by 6. Current health: 96%
+[2025-03-13 23:20:19] [INFO] APPLE 10's health increased by 6. Current health: 92%
+[2025-03-13 23:20:21] [INFO] CHERRY 36's health increased by 6. Current health: 71%
+[2025-03-13 23:20:22] [INFO] APPLE 11's health increased by 6. Current health: 100%
+[2025-03-13 23:20:26] [INFO] CHERRY 37's health increased by 6. Current health: 100%
+[2025-03-13 23:20:26] [INFO] CHERRY 35's health increased by 6. Current health: 87%
+[2025-03-13 23:20:31] [INFO] APPLE 18's health increased by 6. Current health: 98%
+[2025-03-13 23:20:31] [INFO] APPLE 10's health increased by 6. Current health: 98%
+[2025-03-13 23:20:34] [INFO] APPLE 12's health increased by 6. Current health: 92%
+[2025-03-13 23:20:34] [INFO] APPLE 18's health increased by 6. Current health: 100%
+[2025-03-13 23:20:34] [INFO] APPLE 10's health increased by 6. Current health: 100%
+[2025-03-13 23:20:36] [INFO] CHERRY 36's health increased by 6. Current health: 77%
+[2025-03-13 23:20:36] [INFO] CHERRY 36's health increased by 6. Current health: 83%
+[2025-03-13 23:20:36] [INFO] APPLE 12's health increased by 6. Current health: 98%
+[2025-03-13 23:20:36] [INFO] CHERRY 35's health increased by 6. Current health: 93%
+[2025-03-13 23:20:41] [INFO] CHERRY 35's health increased by 6. Current health: 99%
+[2025-03-13 23:20:46] [INFO] CHERRY 36's health decreased by 10. Current health: 73%
+[2025-03-13 23:20:49] [INFO] APPLE 12's health increased by 6. Current health: 100%
+[2025-03-13 23:20:51] [INFO] CHERRY 36's health increased by 6. Current health: 79%
+[2025-03-13 23:20:51] [INFO] CHERRY 36's health increased by 6. Current health: 85%
+[2025-03-13 23:20:51] [INFO] CHERRY 35's health increased by 6. Current health: 100%
+[2025-03-13 23:21:06] [INFO] CHERRY 36's health increased by 6. Current health: 91%
+[2025-03-13 23:21:06] [INFO] CHERRY 36's health increased by 6. Current health: 97%
+[2025-03-13 23:21:11] [INFO] CHERRY 36's health increased by 6. Current health: 100%
